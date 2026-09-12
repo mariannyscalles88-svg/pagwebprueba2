@@ -1,0 +1,6 @@
+{
+  "name": "Verdant - Botanica Care & Indoor Jungle Telemetry",
+  "description": "Horticultural care management and environmental telemetry system for indoor plants, watering schedules, photoperiod indices, and nutrient tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
